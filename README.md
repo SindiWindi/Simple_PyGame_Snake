@@ -27,3 +27,4 @@ While you've eaten a black square or run into snake's body the game over screen 
 ![scr3](https://user-images.githubusercontent.com/102676304/180744008-fab3dabc-acb7-4420-bc16-8fceeab649cd.PNG)<br>
 
 After 4 second's, the game window will close, but the menu window is still open giving you a choice to play again or exit the program.<br>
+To run this program in your IDLE, you need to install PyGame module.
