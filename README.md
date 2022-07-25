@@ -22,7 +22,7 @@ There's no collision with the walls (end of the screen), if you go through one, 
 
 ![scr4](https://user-images.githubusercontent.com/102676304/180743473-e910e544-afb4-49fc-9f6a-bdd3a2b2a4e3.PNG)<br>
 
-While you've eaten a black square or run into snake body the game over screen will appear for 4 second's, showing your score and ending the game.<br>
+While you've eaten a black square or run into snake's body the game over screen will appear for 4 second's, showing your score and ending the game.<br>
 
 ![scr3](https://user-images.githubusercontent.com/102676304/180744008-fab3dabc-acb7-4420-bc16-8fceeab649cd.PNG)<br>
 
